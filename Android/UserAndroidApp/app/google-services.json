@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38507826083",
+    "firebase_url": "https://hospitalchat-5857a-default-rtdb.firebaseio.com",
+    "project_id": "hospitalchat-5857a",
+    "storage_bucket": "hospitalchat-5857a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38507826083:android:546fae58fc119d69ae2816",
+        "android_client_info": {
+          "package_name": "com.vidya.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38507826083-6vci65bo2qec5h2hipe0rmp87bi3a2g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4fjKdRWA4DsL19F40HxQ-ETWigy6-9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38507826083-6vci65bo2qec5h2hipe0rmp87bi3a2g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
